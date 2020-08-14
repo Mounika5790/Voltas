@@ -1,0 +1,8 @@
+Git
+TortoiseGit 
+
+need to install for GitHub
+
+========================
+
+we can use 2 terminologies to move our code from local repo to central repo

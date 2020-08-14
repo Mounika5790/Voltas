@@ -1,0 +1,29 @@
+Chropath
+Katalon Recorder
+
+Automation Testing
+
+Selenium is only providing 'Automation' services and not providing amy Testing services
+
+Selenium - Automation
+Testing, TestNG, Cucumber, JUnit
+
+Out of 100% interview - Selenium scope is only 5-10%
+
+Main thing in Selenium is "Xpath"
+
+Xpath contains --- Xpathfunctions & axis
+
+How to "enter text into texbox and how to click on a button, radio button, check box
+
+We perform Mouse & Keyboard - Actions
+Window Handling
+Frame Handling & 
+Pop-Up handling (Alerts)
+File upload & download
+Screenshot
+Javascript executor
+scroll down & scroll up
+
+
+void === means if method doesn't written anything we write void

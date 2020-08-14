@@ -1,0 +1,37 @@
+ All.txt
+ 
+ Java
+ Selenium
+ Maven/Gradle
+ TestNG
+ Cucumber
+ JUnit
+ GitHub
+ Jenkins
+ SQL
+ POM framework
+ Rest API
+ 
+ 
+ 
+ IDE:
+ Ecllipse
+ Intellij
+ 
+ 
+ 
+ JAVA
+ 
+ From Static -> if we're trying to access non static from static which is not possible
+Static can access only -> static content
+When it comes to Instance will access possible for -> non-static & static content
+
+
+GitHub - is a open source
+
+it is also called as 'Repository System' and VCS (Version Control System)
+
+3types of VCS - "GitHub/BitBucket/SVN" - out dated, BitBucket is paid version
+
+Purpose of VCN is can communicate as a common point
+v can synchronize the entire code @ single place using GitHub
