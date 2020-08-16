@@ -1,0 +1,91 @@
+Automation + Testing
+
+Automation - for - UI, API, Performance, Security, Mobile
+
+ UI - (User Interface - we can see on a browser)
+ 	-> access the data from the backend logic
+ 
+ API - Called as Web services
+	-> directly do the testing of backend logic
+	-> functional working only tools
+
+Performance - also do the testing and won't do the functionality testing
+	ex: don't have access for bulk applications
+
+Selenium only does operates on - "UI"
+
+Appium - which actually automates "Mobile applications"
+
+API - v've few tools for Manual testing via "Postman, SoapUI, and for Automation we use "Rest Assured"
+
+
+Testing Libraries are common:
+
+-> TestNG
+-> Cucumber
+-> JUnit (old one)
+
+
+Installation of TestNG
+
+1. Install it from eclipse market place
+2. google for "testng maven dependancy" (mvnrepository.com/artifact/org.testing.testing)
+3. check the usages (for more verstion) ("7.1.0 - dec, 2019")
+4. copy paste the code in pom.xml
+
+https://testng.org/doc/download.html
+
+https://dl.bintray.com/testng-team/testng-eclipse-release/.
+https://dl.bintray.com/testng-team/testng-eclipse-release/7.2.0/
+
+==================
+
+Annotations
+Assert statements
+Test.xml file
+different ways of running your testcases
+
+Write testcases > push code github > jenkins will pull latest code from github >
+jenkins job config > run job > runs all testcases > generates reports > trigger mail with reports.
+
+=> v've to get familiar with all the annotations which are provided by assert statement and 
+different ways of running out test cases
+
+=> Write testcases in Eclipse. - > after writing the code -> push the code to github -> once the code is push to github -> Jenkins will pull latest code from github automatically
+A little setup called -. Jenkins job configuration -> to run what testcases we need to run which are mentioned as part of the jobs -> triggers "mail with reports"
+
+==> purpose of testing:
+
+Ultimately we should know how much functionality is working and how much funclty is not working
+Ultimately it triggers "mail with reports"
+
+==================
+
+TestNg provides one ".xml"file through which 
+
+================
+
+runing TestNG from Maven  & jenkins
+
+Functionality: 
+
+Java: v've not cover yet
+Files
+Exception handling
+Collections
+
+
+============================================================
+Annotations:-
+
+@Test
+@Before & @After 5+5 10
+@Parameter
+@DataProvider
+
+
+===============
+@Parameter
+
+
+If we want to do any parameter to any a

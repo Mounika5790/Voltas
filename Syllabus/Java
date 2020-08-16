@@ -6,26 +6,28 @@
  TestNG
  Cucumber
  JUnit
- GitHub
+ GitHub - Repository - VCS
  Jenkins
  SQL
  POM framework
  Rest API
- 
- 
- 
+ ===================
  IDE:
  Ecllipse
  Intellij
+ ================================
  
+ Java, Selenium, TestNG, Cucumber, POM framework
+ Maven, SQL, API Testing
+ GitHub, Jenkins, Agile methodology
  
- 
+ ==============
  JAVA
  
  From Static -> if we're trying to access non static from static which is not possible
 Static can access only -> static content
 When it comes to Instance will access possible for -> non-static & static content
-
+=========================================
 
 GitHub - is a open source
 

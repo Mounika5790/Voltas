@@ -5,4 +5,7 @@ need to install for GitHub
 
 ========================
 
-we can use 2 terminologies to move our code from local repo to central repo
+we can use 2 terminologies to move our code from local Repo to "central Repo"
+
+Local Repo - will be managed by Git
+Central Repo - will be managed by GitHub
